@@ -6,4 +6,4 @@ puts "A soma é: #{soma}"
 puts "A subtração é: #{subtracao}"
 puts "A potenciação é: #{potencia}"
 
-puts "oi"
+puts "pull request"
